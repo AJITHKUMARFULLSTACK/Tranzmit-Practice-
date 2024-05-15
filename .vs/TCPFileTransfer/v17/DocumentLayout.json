@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\controllers\\filetransfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\controllers\\filetransfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\models\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\models\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|c:\\users\\bi50649\\source\\repos\\tcpfiletransfer\\tcpfiletransfer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A44D7976-EDFE-42CF-A0E4-8D984FAA9360}|TCPFileTransfer\\TCPFileTransfer.csproj|solutionrelative:tcpfiletransfer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "TCPFileTransfer\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:52:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TCPFileTransfer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:52:48.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TCPFileTransfer\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:42:10.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TCPFileTransfer\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:36:37.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TCPFileTransfer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:33:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileTransferController.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Controllers\\FileTransferController.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Controllers\\FileTransferController.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Controllers\\FileTransferController.cs",
+              "RelativeToolTip": "TCPFileTransfer\\Controllers\\FileTransferController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:26:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Models\\FileDbContext.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Models\\FileDbContext.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Models\\FileDbContext.cs",
+              "RelativeToolTip": "TCPFileTransfer\\Models\\FileDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:11:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TCPFileTransfer\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:55:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Models\\File.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Models\\File.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Models\\File.cs",
+              "RelativeToolTip": "TCPFileTransfer\\Models\\File.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:03:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Global.asax.cs",
+              "RelativeToolTip": "TCPFileTransfer\\Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:31:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Web.config",
+              "RelativeDocumentMoniker": "TCPFileTransfer\\Web.config",
+              "ToolTip": "C:\\Users\\BI50649\\source\\repos\\TCPFileTransfer\\TCPFileTransfer\\Web.config",
+              "RelativeToolTip": "TCPFileTransfer\\Web.config",
+              "ViewState": "AQIAAAcAAADAzMzMzMwXwBIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-10T07:35:57.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
